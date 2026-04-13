@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .wine one-word domains from Unique
 
 **Public extract:** 8,954 rows · **Live catalog:** 8,953 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/wine`  
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| gas.wine     | available | $75.98    | —             | 72             | 99     | 3      | namecheap                                           |
-| any.wine     | resell    | —         | —             | 80             | 98     | 3      | NameCheap, Inc.                                     |
-| power.wine   | premium   | $128.70   | $128.70       | 98             | 62     | 5      | namecheap                                           |
 | prompt.wine  | available | $9.99     | —             | 82             | 68     | 6      | name.com                                            |
-| orange.wine  | resell    | —         | —             | 74             | 83     | 6      | Porkbun LLC                                         |
+| gas.wine     | resell    | $75.98    | —             | 72             | 31     | 3      | HOSTINGER operations, UAB                           |
+| power.wine   | premium   | $128.70   | $128.70       | 98             | 62     | 5      | namecheap                                           |
+| secret.wine  | available | $9.99     | —             | 80             | 45     | 6      | name.com                                            |
+| any.wine     | resell    | —         | —             | 80             | 98     | 3      | NameCheap, Inc.                                     |
 | gold.wine    | premium   | $520      | $520          | 72             | 48     | 4      | namecheap                                           |
 | creator.wine | available | $9.99     | $77.99        | 70             | 45     | 7      | name.com                                            |
-| flow.wine    | resell    | —         | —             | 96             | 67     | 4      | GoDaddy.com, LLC                                    |
+| orange.wine  | resell    | —         | —             | 74             | 83     | 6      | Porkbun LLC                                         |
 | big.wine     | premium   | $500      | $500          | 88             | 47     | 3      | name.com                                            |
 | forge.wine   | available | $9.99     | $77.99        | 62             | 45     | 5      | name.com                                            |
-| news.wine    | resell    | —         | —             | 100            | 64     | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| flow.wine    | resell    | —         | —             | 96             | 67     | 4      | GoDaddy.com, LLC                                    |
 | health.wine  | premium   | $85.80    | $85.80        | 92             | 43     | 6      | namecheap                                           |
-| secret.wine  | available | $9.99     | —             | 80             | 44     | 6      | name.com                                            |
-| home.wine    | resell    | —         | —             | 100            | 62     | 4      | 1API GmbH                                           |
-| sales.wine   | premium   | $520      | $520          | 66             | 42     | 5      | namecheap                                           |
 | agile.wine   | available | $9.99     | $77.99        | 92             | 41     | 5      | name.com                                            |
-| search.wine  | resell    | —         | —             | 70             | 57     | 6      | Dynadot Inc                                         |
+| news.wine    | resell    | —         | —             | 100            | 64     | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| sales.wine   | premium   | $520      | $520          | 66             | 42     | 5      | namecheap                                           |
+| unity.wine   | available | $9.99     | $77.99        | 70             | 40     | 5      | name.com                                            |
+| home.wine    | resell    | —         | —             | 100            | 62     | 4      | 1API GmbH                                           |
 | first.wine   | premium   | $82.50    | $82.50        | 80             | 41     | 5      | name.com                                            |
-| content.wine | available | $9.99     | $77.99        | 138            | 40     | 7      | name.com                                            |
-| music.wine   | resell    | —         | —             | 84             | 56     | 5      | Sav.com, LLC - 46                                   |
+| content.wine | available | $9.99     | $77.99        | 138            | 39     | 7      | name.com                                            |
+| search.wine  | resell    | —         | —             | 70             | 57     | 6      | Dynadot Inc                                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .WINE One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .WINE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
