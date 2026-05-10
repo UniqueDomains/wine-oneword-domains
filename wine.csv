@@ -586,6 +586,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 359ddd5c-7027-4fa9-9cfc-6ddb6114b78d,longlasting.wine,available,9.99,,68,3,12,name.com,,
 35c55c1e-ba6b-474b-a64e-14fdbefd87cc,getturnedaround.wine,available,9.99,,64,1,17,name.com,,
 35d19622-3be0-41fe-a250-aade5e120ac5,goonrecord.wine,available,9.99,,70,1,12,name.com,,
+35e22e76-b124-41f0-ba53-011652593cdb,explore.wine,premium,,,84,41,7,,,
 35f87bcb-f3a8-4c8a-94ee-d0c60a4db9e5,counterfeits.wine,available,9.99,,40,2,12,name.com,,
 35f927cc-df2f-4390-9066-359e59117f8d,keepback.wine,available,9.99,,70,2,9,name.com,,
 367e2fa0-a6d1-4c2d-a7bf-5019d19a6e6e,standardizing.wine,available,9.99,,43,1,13,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 591ddbf3-40f1-4ebb-b6b6-b44b03fb5847,goingdown.wine,available,9.99,,50,2,10,name.com,,
 5939ccbe-2617-4847-b371-2be716582534,scoopin.wine,available,9.99,,68,1,8,name.com,,
 594cb051-83ce-4155-86de-1b000ccbcf2d,assoonaspossible.wine,available,9.99,,50,1,19,name.com,,
-5951c7a5-dbd6-4dc5-93f7-2c266d6ac839,clients.wine,available,9.99,,58,20,7,name.com,,

@@ -81,9 +81,9 @@ print(df.head())
 | videos.wine       | available | $9.99     | —             | 52             | 30     | 6      | name.com         |
 | vendors.wine      | premium   | $500      | —             | 56             | 12     | 7      | name.com         |
 | dogs.wine         | available | $9.99     | —             | 76             | 28     | 4      | name.com         |
+| explore.wine      | premium   | —         | —             | 84             | 41     | 7      | —                |
 | commonground.wine | available | $9.99     | —             | 74             | 28     | 13     | name.com         |
 | pages.wine        | available | $9.99     | —             | 52             | 28     | 5      | name.com         |
-| trades.wine       | available | $9.99     | —             | 71             | 26     | 6      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
