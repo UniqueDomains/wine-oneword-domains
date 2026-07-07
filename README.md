@@ -1,10 +1,10 @@
-# Available .WINE One-Word Domains (11,885)
+# Available .WINE One-Word Domains (11,887)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C885%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C887%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .wine one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,885 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,887 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,885 domains · **Median ask:** $24.08 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,887 domains · **Median ask:** $21.12 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/wine`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/wine`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .WINE one-word domain 
 
 ### Files
 
-- `wine.csv` — public CSV extract (1,000 rows)
-- `wine.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `wine.csv`, public CSV extract (1,000 rows)
+- `wine.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| Tools.wine         | available | $75.98    | —             | 56             | 40     | 5      | namecheap        |
-| vacations.wine     | resell    | —         | —             | 56             | 19     | 9      | GoDaddy.com, LLC |
-| insight.wine       | premium   | $123.75   | —             | 76             | 69     | 8      | name.com         |
-| neuroscience.wine  | available | $9.99     | —             | 80             | 37     | 12     | name.com         |
-| thanksgiving.wine  | resell    | —         | —             | 84             | 13     | 12     | NameCheap, Inc.  |
-| Books.wine         | premium   | $560      | $560          | 52             | 49     | 5      | namecheap        |
-| tokens.wine        | available | $9.99     | —             | 51             | 36     | 6      | name.com         |
-| blogs.wine         | premium   | $500      | —             | 52             | 21     | 5      | name.com         |
-| partners.wine      | available | $9.99     | —             | 61             | 31     | 8      | name.com         |
-| stores.wine        | premium   | $250      | —             | 62             | 20     | 6      | name.com         |
-| solutions.wine     | available | $9.99     | —             | 56             | 31     | 9      | name.com         |
-| labels.wine        | premium   | $500      | —             | 56             | 16     | 6      | name.com         |
-| spaces.wine        | available | $9.99     | —             | 54             | 30     | 6      | name.com         |
-| appreciation.wine  | premium   | $123.75   | —             | 88             | 13     | 12     | name.com         |
-| videos.wine        | available | $9.99     | —             | 52             | 30     | 6      | name.com         |
-| vendors.wine       | premium   | $500      | —             | 56             | 12     | 7      | name.com         |
-| dogs.wine          | available | $9.99     | —             | 76             | 28     | 4      | name.com         |
-| explore.wine       | premium   | —         | —             | 84             | 41     | 7      | —                |
-| commonground.wine  | available | $9.99     | —             | 74             | 28     | 13     | name.com         |
-| midlifecrisis.wine | premium   | —         | —             | 58             | 9      | 15     | —                |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| apt.wine   | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| gas.wine   | resell    | $75.98    | —             | high           | low    | 3      | HOSTINGER operations, UAB                                 |
+| org.wine   | premium   | $500      | —             | medium         | medium | 3      | name.com                                                  |
+| awe.wine   | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| bio.wine   | resell    | —         | —             | high           | medium | 3      | Name.com, Inc.                                            |
+| gold.wine  | premium   | $520      | $520          | high           | medium | 4      | namecheap                                                 |
+| bce.wine   | available | $9.99     | —             | medium         | low    | 3      | name.com                                                  |
+| Bets.wine  | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                               |
+| rice.wine  | premium   | $500      | —             | high           | low    | 4      | name.com                                                  |
+| cut.wine   | available | $9.99     | $77.99        | high           | low    | 3      | name.com                                                  |
+| case.wine  | resell    | —         | —             | high           | low    | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| zone.wine  | premium   | $242      | $242          | high           | low    | 4      | namesilo                                                  |
+| DJI.wine   | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| farm.wine  | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                           |
+| blind.wine | premium   | $500      | —             | medium         | low    | 5      | name.com                                                  |
+| dye.wine   | available | $9.99     | —             | medium         | low    | 3      | name.com                                                  |
+| park.wine  | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                               |
+| photo.wine | premium   | $118.80   | $118.80       | high           | medium | 5      | namesilo                                                  |
+| far.wine   | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| seek.wine  | resell    | —         | —             | high           | low    | 4      | united-domains GmbH                                       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,885 live domains                        |
+| 1,000-row public sample | 11,887 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .wine domains, which makes it narrow, thematic, and easy to compare. The words range from product-adjacent and sensory terms to broader dictionary words such as sauna.wine, candle.wine, silent.wine, and afternoon.wine. For founders, the main question is whether the word feels credible and memorable with .wine rather than merely interesting on its own. For investors, the key test is whether the pairing is commercially intuitive enough to support resale interest at the current ask. With a median ask of 24.07, discipline should center on word quality, category relevance, and avoidable trademark friction.
+This list covers 11,887 one-word .wine domain names, most carrying a median ask near $21. The set spans everyday words and phrases turned into single-string domains — names like fitthebill.wine, getready.wine, and criteria.wine show the range, from action-oriented phrases to abstract nouns. For wine brands, tasting rooms, or beverage startups, these domains offer short, memorable options that are ownable now. When comparing entries, weigh word clarity, spelling ease, and renewal cost against how well the name fits a wine or lifestyle brand.
 
-- Prioritize words that make immediate sense with .wine
-- Memorable dictionary words tend to shortlist faster
-- Use the 24.07 median ask as a price anchor
-- Be cautious with words that may raise trademark issues
+- 11,887 one-word .wine domains updated daily
+- Median ask near $21 across this .wine selection
+- Brandable names like criteria.wine and forces.wine
+- Short, single-word domains that are easy to spell and own
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .WINE One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .WINE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
