@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .wine one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 30,728 domains · **Median ask:** $13.49 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/wine`
 **Best for:** founders, investors, studios
 
@@ -76,14 +76,14 @@ print(df.head())
 | bce.wine   | available | $9.99     | —             | medium         | low    | 3      | name.com                                                  |
 | bets.wine  | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                               |
 | zone.wine  | premium   | $242      | $242          | high           | low    | 4      | namesilo                                                  |
-| cut.wine   | available | $9.99     | $77.99        | high           | low    | 3      | name.com                                                  |
+| cut.wine   | available | $9.99     | $59.99        | low            | low    | 3      | namesilo                                                  |
 | case.wine  | resell    | —         | —             | high           | low    | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
 | blind.wine | premium   | $512      | $512          | low            | low    | 5      | namesilo                                                  |
 | cxx.wine   | available | $8.48     | $75.98        | low            | low    | 3      | namecheap                                                 |
 | farm.wine  | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                           |
 | photo.wine | premium   | $118.80   | $118.80       | medium         | low    | 5      | namesilo                                                  |
 | dji.wine   | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
-| park.wine  | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                               |
+| park.wine  | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .WINE One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .WINE One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
