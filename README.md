@@ -1,10 +1,10 @@
-# Available .WINE One-Word Domains (30,728)
+# Available .WINE One-Word Domains (15,854)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C728%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-15%2C854%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .wine one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **30,728 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **15,854 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 30,728 domains · **Median ask:** $13.49 · **High-demand under $2,500:** 3
+**Public extract:** 1,000 rows · **Live catalog:** 15,854 domains · **Median ask:** $14.16 · **High-demand under $2,500:** 3
 
 **Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/wine`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| aft.wine   | available | $8.48     | $75.98        | low            | low    | 3      | namecheap                                                 |
-| gas.wine   | resell    | $75.98    | —             | low            | low    | 3      | HOSTINGER operations, UAB                                 |
-| org.wine   | premium   | $500      | —             | medium         | medium | 3      | name.com                                                  |
-| apt.wine   | available | $9.99     | $59.99        | low            | low    | 3      | namesilo                                                  |
-| base.wine  | resell    | $9.99     | —             | low            | low    | 4      | name.com                                                  |
-| gold.wine  | premium   | $512      | $512          | low            | low    | 4      | namesilo                                                  |
-| awe.wine   | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
-| bio.wine   | resell    | —         | —             | high           | medium | 3      | Name.com, Inc.                                            |
-| rice.wine  | premium   | $500      | —             | high           | low    | 4      | name.com                                                  |
-| bce.wine   | available | $9.99     | —             | medium         | low    | 3      | name.com                                                  |
-| bets.wine  | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                               |
-| zone.wine  | premium   | $242      | $242          | high           | low    | 4      | namesilo                                                  |
-| cut.wine   | available | $9.99     | $59.99        | low            | low    | 3      | namesilo                                                  |
-| case.wine  | resell    | —         | —             | high           | low    | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| blind.wine | premium   | $512      | $512          | low            | low    | 5      | namesilo                                                  |
-| cxx.wine   | available | $8.48     | $75.98        | low            | low    | 3      | namecheap                                                 |
-| farm.wine  | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                           |
-| photo.wine | premium   | $118.80   | $118.80       | medium         | low    | 5      | namesilo                                                  |
-| dji.wine   | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
-| park.wine  | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc                                               |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| aft.wine    | available | $8.48     | $75.98        | medium         | low    | 3      | namecheap                                                 |
+| bio.wine    | resell    | —         | —             | high           | medium | 3      | Name.com, Inc.                                            |
+| org.wine    | premium   | $500      | —             | high           | medium | 3      | name.com                                                  |
+| awe.wine    | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| bets.wine   | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                               |
+| rice.wine   | premium   | $500      | —             | high           | low    | 4      | name.com                                                  |
+| bce.wine    | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| case.wine   | resell    | —         | —             | high           | low    | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| zone.wine   | premium   | $242      | $242          | high           | low    | 4      | namesilo                                                  |
+| cxx.wine    | available | $8.48     | $75.98        | high           | low    | 3      | namecheap                                                 |
+| farm.wine   | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                           |
+| class.wine  | premium   | $500      | —             | high           | low    | 5      | name.com                                                  |
+| dji.wine    | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| seek.wine   | resell    | —         | —             | high           | low    | 4      | united-domains GmbH                                       |
+| alaska.wine | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo                                                  |
+| dye.wine    | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| light.wine  | resell    | —         | —             | high           | low    | 5      | NameCheap, Inc.                                           |
+| buying.wine | premium   | $242      | $242          | high           | low    | 6      | namesilo                                                  |
+| far.wine    | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| night.wine  | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC                                          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 30,728 live domains                        |
+| 1,000-row public sample | 15,854 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 3 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
