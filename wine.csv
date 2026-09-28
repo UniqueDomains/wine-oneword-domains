@@ -43,11 +43,13 @@ dd5ed453-6032-44db-aaf3-9ca4ed5cb331,astrocyte.wine,available,9.99,59.99,medium,
 3c81f74a-adbb-4ac2-a1fe-08e5b3cd130d,predict.wine,available,8.48,75.98,high,medium,7,namecheap,,,21/09/2026 03:41
 ff31d748-3448-4636-ba78-0752bdbf24b3,aphesis.wine,available,9.99,59.99,medium,low,7,namesilo,,,19/09/2026 16:55
 deb7ff19-779d-4f62-a799-21f5d096c672,retro.wine,available,8.48,75.98,high,medium,5,namecheap,,,24/09/2026 15:44
+a5a74e10-eef1-4892-992b-dbea292fddf8,debts.wine,available,9.99,59.99,low,low,5,namesilo,,,28/09/2026 04:25
 08caa8e5-5ffa-4ced-912c-64c66cc97111,caribbean.wine,available,9.99,59.99,high,low,9,namesilo,,,24/09/2026 13:00
 7b5388b2-7f74-4741-8998-9c3d9f1c3cb5,recalled.wine,available,8.48,75.98,medium,low,8,namecheap,,,18/09/2026 02:40
 64813a89-a0fe-40b2-bfcf-21f060e71d4d,armagnac.wine,available,9.99,59.99,high,low,8,namesilo,,,20/09/2026 06:29
 085b5366-ae62-49b5-b04c-d76ffb21474a,entertainment.wine,available,7.45,47.81,high,low,13,spaceship,,,28/09/2026 03:35
 191ace9a-02c8-4593-b105-be9645806fa5,site.wine,premium,512,512,high,medium,4,namesilo,,,25/09/2026 23:13
+ad484818-9aa0-4bef-92aa-c15071d73a9d,includes.wine,available,9.5,,low,low,8,unstoppable,,,28/09/2026 08:22
 8ccd0a3b-6f0e-47fa-9d74-78771ee79fc1,bivalvia.wine,available,9.99,59.99,medium,low,8,namesilo,,,23/09/2026 23:16
 14ccd668-d59c-4a59-9461-401ee288bb05,pesky.wine,available,8.48,75.98,medium,low,5,namecheap,,,
 30a51c94-9a51-4e40-948a-c1eb026da715,killed.wine,available,9.99,59.99,medium,low,6,namesilo,,,17/09/2026 12:17
@@ -77,6 +79,7 @@ c5c66e78-d36b-4579-93a6-949859918c54,joachim.wine,available,9.99,59.99,high,low,
 6e035876-8af1-4718-83aa-e4fbd062b2ad,snarl.wine,available,8.48,75.98,medium,low,5,namecheap,,,24/08/2026 16:56
 c8ee4c9e-2f9a-42c1-81f9-a228ea4d3ae2,cytotoxic.wine,available,9.99,77.99,medium,low,9,name.com,,,13/08/2026 14:44
 79abd232-f036-48e5-bd0f-07cdb1adc5e4,salmagundi.wine,available,8.48,75.98,medium,low,10,namecheap,,,25/08/2026 08:22
+e895e1b6-7fd0-4841-8b86-c2e78e459e65,worries.wine,available,7.45,47.81,medium,low,7,spaceship,,,28/09/2026 04:50
 93eed783-c61c-4d39-a6c8-b310840ea319,commodious.wine,available,8.48,75.98,medium,low,10,namecheap,,,12/08/2026 19:10
 b7f33681-b35c-42f8-949b-dd6643e07dcf,inwards.wine,available,8.48,75.98,high,low,7,namecheap,,,21/08/2026 23:32
 5bf5b68a-343a-49f3-a3d8-d5d1e09dc3b9,ungroomed.wine,available,8.48,75.98,low,low,9,namecheap,,,12/09/2026 11:34
@@ -96,6 +99,7 @@ f84d9ee0-2be7-40dc-92db-5b113e3bec4f,beachwear.wine,available,8.48,75.98,high,lo
 b18f2a46-908c-43e3-bdfe-bcb9528154dd,snappy.wine,available,8.48,75.98,high,low,6,namecheap,,,11/08/2026 04:32
 f824a0ca-d16c-4556-86ee-3cee2944631e,officially.wine,available,8.48,75.98,high,low,10,namecheap,,,14/09/2026 19:44
 4711a467-2540-4824-911f-e337d2efad96,threw.wine,available,9.99,59.99,medium,low,5,namesilo,,,27/09/2026 02:18
+cc072ed2-f935-4c95-bd7c-120d6a0ff35f,ito.wine,available,9.5,,medium,low,3,unstoppable,,,28/09/2026 08:05
 65c93979-de15-4e1e-9e87-dcc297c0cbff,glaswegian.wine,available,8.48,75.98,medium,low,10,namecheap,,,20/08/2026 14:14
 37264c5b-92b2-44c9-9283-b6444b3ae48a,formless.wine,available,8.48,75.98,medium,low,8,namecheap,,,
 bc7032e1-7e0d-454b-b3e3-b8904322945e,rig.wine,available,8.48,75.98,high,low,3,namecheap,,,20/09/2026 11:18
@@ -129,7 +133,7 @@ cc7a2b6d-57f0-4bfb-8705-a58cf68ea55e,maternal.wine,available,8.48,75.98,high,low
 fae3f9d3-8dd2-4091-bdd2-d521517ec0ac,shaw.wine,available,9.99,59.99,high,low,4,namesilo,,,19/09/2026 09:59
 0bd343d2-781f-4175-a19c-9d111f49cf57,relatively.wine,available,9.99,,medium,low,10,name.com,,,
 4da3f221-159c-4551-98e2-4a44c67e7c00,slippered.wine,available,8.48,75.98,medium,low,9,namecheap,,,10/09/2026 10:59
-8c1da6d3-9ff1-4d8f-9978-875fd9342588,measurement.wine,available,9.99,,high,low,11,name.com,,,
+8c1da6d3-9ff1-4d8f-9978-875fd9342588,measurement.wine,available,46.2,46.2,high,low,11,cloudflare,,,28/09/2026 05:47
 69e604fc-7019-4f46-8c48-e57d8ec528ae,actaea.wine,available,8.48,75.98,medium,low,6,namecheap,,,17/09/2026 04:11
 009fdd78-246c-468e-8afd-5abe1d0df2ee,deuce.wine,available,9.99,59.99,high,low,5,namesilo,,,21/09/2026 12:17
 23cd51ea-41e2-491e-9aa8-3abb5ef3951d,chequered.wine,available,8.48,75.98,medium,low,9,namecheap,,,12/08/2026 03:40
@@ -208,6 +212,7 @@ df173025-a4b1-411a-b469-475bc9bf0b18,mauldin.wine,available,9.99,59.99,medium,lo
 6f95d39c-fc5d-4fa8-a9c1-ddc296be3e5f,leek.wine,available,9.99,59.99,medium,low,4,namesilo,,,18/09/2026 11:25
 37fa5e2e-c3c0-429b-8b6d-5c940e0788e1,timetables.wine,available,9.99,59.99,medium,low,10,namesilo,,,20/09/2026 12:23
 c067d4bd-498b-4a39-8e7e-591fe48ab675,destined.wine,available,8.48,75.98,high,low,8,namecheap,,,24/09/2026 06:55
+52544248-71c2-4358-946d-cc836905c86c,notified.wine,available,7.45,47.81,medium,low,8,spaceship,,,28/09/2026 05:08
 1076a2cb-1cd0-412b-8f0a-74bfdb5d030e,timeline.wine,available,8.48,75.98,high,low,8,namecheap,,,27/09/2026 05:39
 3c0cada6-09e1-48c2-9611-7bd53138ad17,aerophile.wine,available,9.99,59.99,medium,low,9,namesilo,,,17/09/2026 13:12
 c9f4626e-522c-4746-82f6-606d0a10a07b,adjutant.wine,available,8.48,75.98,medium,low,8,namecheap,,,17/09/2026 08:35
@@ -215,8 +220,10 @@ c9f4626e-522c-4746-82f6-606d0a10a07b,adjutant.wine,available,8.48,75.98,medium,l
 f852c593-ad68-435d-932c-32c1088e4206,yid.wine,available,9.99,59.99,medium,low,3,namesilo,,,19/09/2026 16:18
 4952e7b4-c47f-422a-9db2-f97cc6e0e7e4,mistaken.wine,available,8.48,75.98,medium,low,8,namecheap,,,25/08/2026 01:52
 17e5f0ac-4e1b-4b65-b14d-549cfbc69f87,creatures.wine,available,8.48,75.98,medium,low,9,namecheap,,,27/09/2026 03:06
+63c0694c-34df-4cb3-b8cc-2eb679fa94a8,cato.wine,available,9.99,59.99,high,low,4,namesilo,,,28/09/2026 07:17
 a38abe9c-ed1e-48f0-9506-305c99bbb101,bierce.wine,available,9.99,59.99,medium,low,6,namesilo,,,18/09/2026 17:23
 85243672-38ab-444b-b414-b9b536eef60e,eparchial.wine,available,8.48,75.98,low,low,9,namecheap,,,17/08/2026 10:12
+64799db8-46c9-48fa-a3c2-18d51f93b2c6,gabriel.wine,available,5.66,47.89,high,medium,7,porkbun,,,28/09/2026 05:49
 4b986915-e799-45b5-8f0b-49af9e158249,headstrong.wine,available,8.48,75.98,medium,low,10,namecheap,,,18/08/2026 16:35
 3be8f06e-bbb0-4b9a-9a9d-e95697a78e01,surfers.wine,available,9.99,59.99,medium,low,7,namesilo,,,20/09/2026 02:01
 de4e4a5d-063c-43c0-b098-5340ec8c73ef,promotive.wine,available,8.48,75.98,high,low,9,namecheap,,,09/09/2026 03:13
@@ -268,6 +275,7 @@ cb72ba3b-4d12-414e-908c-4bf878731852,goosefish.wine,available,8.48,75.98,medium,
 1e4b5254-a141-4b35-9556-b9efbf8da40c,hornless.wine,available,8.48,75.98,medium,low,8,namecheap,,,21/08/2026 14:06
 1964cd92-6b5a-4066-88d2-9a4840f52bc7,reasonless.wine,available,8.48,75.98,medium,low,10,namecheap,,,11/08/2026 22:42
 1d5b9cd3-1ac5-423d-88e6-e172108ab1eb,stands.wine,available,9.99,,medium,low,6,name.com,,,
+f8a0073b-8188-422e-bcb1-09951c706233,gillette.wine,available,5.57,49.44,high,low,8,dynadot,,,28/09/2026 05:50
 789a6055-2967-4c8a-aa57-39a8d9c3b566,auger.wine,available,9.99,59.99,medium,low,5,namesilo,,,21/09/2026 03:19
 645bf61a-61ce-47ea-b2cc-52fde60fa669,quaint.wine,available,8.48,75.98,high,low,6,namecheap,,,04/09/2026 01:55
 dc20b88c-fdb3-46c0-9cd5-bdd924a89a79,christi.wine,available,8.48,75.98,medium,low,7,namecheap,,,25/09/2026 21:26
@@ -477,6 +485,7 @@ a727ddb7-7ac8-4545-b07d-161e9490f594,menopausal.wine,available,8.48,75.98,medium
 97fb14b0-11ed-4e89-831c-ef13ce78fd49,unlearned.wine,available,8.48,75.98,medium,low,9,namecheap,,,21/08/2026 18:31
 57ebb5af-392c-4d4e-8920-3e4c3ebaf4ae,breeds.wine,available,8.48,75.98,medium,low,6,namecheap,,,20/09/2026 01:09
 9303a606-f051-4e3c-b780-a4f069970c08,actinic.wine,available,8.48,75.98,medium,low,7,namecheap,,,
+f1910c70-1d8e-40aa-8f55-39eb81fa24cf,hendricks.wine,available,7.45,47.81,medium,low,9,spaceship,,,28/09/2026 08:45
 aa57b6e3-9c44-45af-b61a-1fe99b3d33c1,haynes.wine,available,9.99,59.99,medium,low,6,namesilo,,,27/09/2026 01:55
 b2ef3228-149e-45d1-9453-e9ed3288fbd7,sororal.wine,available,8.48,75.98,medium,low,7,namecheap,,,10/09/2026 08:56
 c6451e7e-b7b2-4a62-b4d0-45c069e5024b,empowering.wine,available,9.99,,high,low,10,name.com,,,
@@ -489,6 +498,7 @@ ba08bc8a-7cac-4755-a217-42ca5b302bff,buckingham.wine,available,9.99,59.99,high,l
 58c6dd96-718f-4a39-be05-6981370439bf,cheetah.wine,available,9.99,59.99,high,low,7,namesilo,,,17/09/2026 01:33
 cce5519f-6388-4f71-a1a1-b2728b301109,hitler.wine,available,8.48,75.98,high,low,6,namecheap,,,17/09/2026 09:31
 cce8b88d-06d9-494a-911f-1b38bf250162,premier.wine,premium,118.8,118.8,high,low,7,namesilo,,,27/09/2026 04:55
+6cf33691-3998-4db8-b402-dcaf1b873e89,phyllis.wine,available,46.2,46.2,medium,low,7,cloudflare,,,28/09/2026 07:46
 ef306e20-c4f4-4958-964a-ba9c79bcb8c6,ultimately.wine,available,9.99,,high,low,10,name.com,,,
 59041eb0-540f-488d-afab-a482be7ea1ba,reference.wine,available,9.99,,high,low,9,name.com,,,
 7e92c52e-df82-41c1-83cd-00229e65877b,returnable.wine,available,8.48,75.98,high,low,10,namecheap,,,09/09/2026 15:55
@@ -523,18 +533,19 @@ c0644deb-54af-4ed9-bfcc-aeb1bd011ed5,unleavened.wine,available,8.48,75.98,medium
 0a623bdd-c184-438b-9135-8f32c631e5cd,overhanded.wine,available,8.48,75.98,medium,low,10,namecheap,,,04/09/2026 20:12
 b5762f4b-eb8b-4a9a-921e-aaa788bd1563,nonunion.wine,available,8.48,75.98,medium,low,8,namecheap,,,03/09/2026 20:58
 7ba1679f-22ac-465b-8749-8ca26f8346ce,glance.wine,available,9.99,,high,low,6,name.com,,,
-1fb05746-6f4f-40f4-9877-a07d7b1a19ef,storage.wine,premium,118.8,118.8,high,low,7,namesilo,,,23/09/2026 08:25
+1fb05746-6f4f-40f4-9877-a07d7b1a19ef,storage.wine,premium,128.7,128.7,high,medium,7,namecheap,,,28/09/2026 06:24
 3bbea132-9785-4f9e-94b3-82b12650dc50,otoscope.wine,available,9.99,59.99,medium,low,8,namesilo,,,21/09/2026 04:28
 8b0db977-6a6b-440f-a7e7-257faf2ecab0,amazement.wine,available,9.99,59.99,high,low,9,namesilo,,,18/09/2026 16:18
 ab75281b-92ce-413e-9f3e-7d5f0ddef322,warp.wine,available,9.99,,high,medium,4,name.com,,,
 b619d37b-7ff2-416f-8ea1-018e0c6d27b1,exhausted.wine,available,8.48,75.98,medium,low,9,namecheap,,,14/08/2026 14:43
+3f02ee7c-7ea1-408f-beab-fbdd8c1809ef,qualify.wine,available,7.45,47.81,high,low,7,spaceship,,,28/09/2026 06:57
 dd36b338-9819-4a7b-98f0-83ea856aec18,swinging.wine,available,8.48,75.98,high,low,8,namecheap,,,23/08/2026 08:43
 ad89848a-946c-4c77-9d7a-d3f8aaa7ed4e,inharmonic.wine,available,8.48,75.98,low,low,10,namecheap,,,14/08/2026 10:54
 5c2c7f36-ff8b-43e7-8ecd-7c845ee32ae1,skirt.wine,available,9.99,,high,low,5,name.com,,,
 c0242f18-17bf-42d1-9f86-0f7241e401de,buddhist.wine,available,8.48,75.98,high,low,8,namecheap,,,11/08/2026 07:39
 1fffc744-a5d4-4e7a-8dab-6befb73c02ce,attract.wine,available,9.99,,high,low,7,name.com,,,
 bd4e437d-b229-4738-b625-d2da2b362013,garry.wine,available,9.5,,high,low,5,unstoppable,,,28/09/2026 03:42
-a763715c-46bc-41a9-b75e-0c8b2bc8fc7f,casting.wine,available,9.99,59.99,high,low,7,namesilo,,,24/09/2026 02:38
+a763715c-46bc-41a9-b75e-0c8b2bc8fc7f,casting.wine,available,5.66,47.89,high,low,7,porkbun,,,28/09/2026 08:56
 cd257b86-b58f-4806-965a-fe0314db9898,resinous.wine,available,8.48,75.98,medium,low,8,namecheap,,,09/09/2026 15:13
 24f2d1c2-fdf9-4636-bb07-26014de00b39,bessel.wine,available,9.99,59.99,medium,low,6,namesilo,,,23/09/2026 10:26
 a995f05b-d0a3-46c6-a28a-902bc8d08ed0,hushed.wine,available,8.48,75.98,medium,low,6,namecheap,,,21/08/2026 15:54
@@ -648,7 +659,7 @@ df80a336-37fa-45dc-a484-c313f5b5b5d4,rocambole.wine,available,9.99,59.99,medium,
 c20abb8c-7f01-4f1b-b20f-03db25f27919,pig.wine,available,9.99,,high,low,3,name.com,,,
 95b8b6b8-1251-4d29-a2dd-6a84b17f9603,effectively.wine,available,9.99,,medium,low,11,name.com,,,
 d67f8f09-f631-4369-836f-79ed78bf5d49,travis.wine,available,9.99,59.99,high,low,6,namesilo,,,25/09/2026 13:01
-ab8dd05b-ae3b-41aa-b115-4653a522bcc7,schools.wine,available,9.99,59.99,high,low,7,namesilo,,,24/09/2026 00:37
+ab8dd05b-ae3b-41aa-b115-4653a522bcc7,schools.wine,available,9.99,59.99,high,low,7,namesilo,,,28/09/2026 08:54
 aa564686-242f-41c8-97fe-992259f5ce60,curium.wine,available,8.48,75.98,medium,low,6,namecheap,,,21/09/2026 00:13
 84b6658e-4f53-4a27-8da2-29067cbf1ca5,amniota.wine,available,9.99,59.99,medium,low,7,namesilo,,,18/09/2026 22:27
 16a98c6e-6315-4791-a2f7-157e947d4799,lackey.wine,available,9.99,59.99,medium,low,6,namesilo,,,20/09/2026 15:38
@@ -663,6 +674,7 @@ bb0ccd89-16ad-49ad-9a92-ba3e133cc038,athanor.wine,available,8.48,75.98,medium,lo
 3ea26f51-944a-4911-8df5-2f993c94240a,decreased.wine,available,8.48,75.98,medium,low,9,namecheap,,,13/08/2026 22:08
 e38a128a-b4d7-4dc7-a93e-be3609526edc,repentant.wine,available,8.48,75.98,medium,low,9,namecheap,,,08/09/2026 14:32
 e9638810-5e2d-4c31-9a72-84e42b410280,equitably.wine,available,8.48,75.98,medium,low,9,namecheap,,,14/09/2026 15:54
+4dc536e9-6c86-4ae5-94db-a32fc0889393,lineages.wine,available,8.48,75.98,low,low,8,namecheap,,,28/09/2026 09:04
 21ac51f3-bd19-4d1e-8d44-f5c8048ef915,muhammadan.wine,available,8.48,75.98,medium,low,10,namecheap,,,25/08/2026 03:21
 9c8ed367-b4b9-4f12-92aa-bac804b81dc1,thumbed.wine,available,8.48,75.98,medium,low,7,namecheap,,,11/09/2026 15:04
 7c9a3e3b-165e-4028-9b84-c735f388a245,pectoral.wine,available,8.48,75.98,medium,low,8,namecheap,,,08/09/2026 11:58
@@ -733,7 +745,7 @@ efedbce0-17de-4f17-99f3-1121da7c7610,cohn.wine,available,9.99,59.99,medium,low,4
 9b1b3a9e-a0f5-401b-9b01-04f02600e860,isolation.wine,available,9.99,59.99,high,low,9,namesilo,,,24/09/2026 16:00
 eb3057a6-6040-4805-b57e-fa3153f46e29,crested.wine,available,8.48,75.98,high,low,7,namecheap,,,13/08/2026 06:20
 1c5cd65b-2889-4d09-956d-768054f7a170,triassic.wine,available,8.48,75.98,medium,low,8,namecheap,,,11/09/2026 19:21
-9c0c4ec1-f907-4d34-8ae5-4a7dbb1685ca,napkin.wine,available,8.48,75.98,high,low,6,namecheap,,,03/09/2026 13:10
+9c0c4ec1-f907-4d34-8ae5-4a7dbb1685ca,napkin.wine,available,7.45,47.81,high,low,6,spaceship,,,28/09/2026 08:00
 8c3fc611-67a1-45b7-88ef-153ebc41c1ac,debauched.wine,available,9.99,77.99,medium,low,9,name.com,,,13/08/2026 20:14
 29fd7339-1451-4f40-a524-72083123185c,lethal.wine,available,8.48,75.98,high,low,6,namecheap,,,23/08/2026 00:26
 71a1f005-3971-4abd-9b43-4dab0fe59469,slain.wine,available,8.48,75.98,medium,low,5,namecheap,,,10/09/2026 09:53
@@ -755,6 +767,7 @@ e9ebdc15-314c-4c01-b9ed-1b52b8e750c3,externally.wine,available,8.48,75.98,medium
 43db010c-40ab-4dd7-a03f-16b2790d981c,dove.wine,available,8.48,75.98,high,low,4,namecheap,,,10/09/2026 17:16
 aee6f049-b24e-4bf5-a566-0be317e37abb,eviscerate.wine,available,8.48,75.98,medium,low,10,namecheap,,,17/08/2026 15:10
 97810876-8b74-41bf-b5fb-c3f9feb78a49,caliginous.wine,available,8.48,75.98,low,low,10,namecheap,,,11/08/2026 14:25
+16780c36-5bd8-4fa5-b409-ff74223810a4,enforcement.wine,available,5.57,49.44,high,low,11,dynadot,,,28/09/2026 08:21
 4f6e2a94-cfb1-4dc2-8fde-b04766b98c09,jesting.wine,available,8.48,75.98,high,low,7,namecheap,,,22/08/2026 12:52
 e636ce07-c7c5-459f-b5a2-fd6c299a3fa7,googler.wine,available,9.99,,high,low,7,name.com,,,
 69e875d1-e73d-4e28-9cca-ce3e075dadeb,mercantile.wine,available,8.48,75.98,medium,low,10,namecheap,,,24/08/2026 20:23
@@ -764,9 +777,11 @@ b4e28cfe-f856-4c52-ab24-3d6cc38ff72b,manycore.wine,available,9.99,59.99,medium,l
 44a0cd12-5c6b-4a3c-82a5-6b2be1b5bf93,permutable.wine,available,8.48,75.98,medium,low,10,namecheap,,,08/09/2026 17:50
 b806b46c-6d0a-4cc6-ac37-df598baf2c13,ravioli.wine,available,9.99,59.99,high,low,7,namesilo,,,24/09/2026 12:37
 34351ec2-d83f-4129-90ab-926482c89cda,murray.wine,available,9.99,59.99,high,low,6,namesilo,,,25/09/2026 22:54
+26453443-c15d-4c0f-ba3d-759147809f1a,sinking.wine,available,7.45,47.81,medium,low,7,spaceship,,,28/09/2026 06:45
 23875a0b-7c35-4b9b-8467-053f765f323f,foiled.wine,available,8.48,75.98,medium,low,6,namecheap,,,14/08/2026 09:27
 52655dd8-5e76-4291-9d11-8268752cbb75,yearningly.wine,available,8.48,75.98,medium,low,10,namecheap,,,15/09/2026 12:56
 ccc6e79d-47a1-4dcc-a9f2-660e4ec0358e,slaughter.wine,available,8.48,75.98,medium,low,9,namecheap,,,13/09/2026 08:00
+d6b5cc62-a53d-48f5-b7f8-171f9d6ce57a,doubts.wine,available,9.5,,low,low,6,unstoppable,,,28/09/2026 04:45
 813f13b8-269b-4867-b5d6-b5d42f34eea7,bollard.wine,available,9.99,59.99,medium,low,7,namesilo,,,23/09/2026 22:48
 26b2b8d2-5b03-41b0-8d99-308aa261e1fc,spelling.wine,available,9.99,59.99,high,low,8,namesilo,,,28/09/2026 03:07
 a2f8f135-b400-4cd2-9203-6d692e99d6f9,loos.wine,available,9.99,59.99,medium,low,4,namesilo,,,17/09/2026 09:32
@@ -842,6 +857,7 @@ ea32e40f-1f68-4905-8df1-fb9b101c984e,seepage.wine,available,8.48,75.98,medium,lo
 39fb1bf3-610a-4761-88c9-9c60c6a301b0,favour.wine,available,9.99,59.99,high,low,6,namesilo,,,25/09/2026 05:51
 98984437-a360-41c3-923c-ae0a03a5f5ce,securely.wine,available,8.48,75.98,high,low,8,namecheap,,,16/09/2026 00:50
 a7cc74e7-f873-4a4d-9760-41ab30bd2a25,revolutions.wine,available,9.99,59.99,medium,low,11,namesilo,,,20/09/2026 15:34
+bcf2b7bb-80f8-425e-bf03-76785ff47def,pier.wine,available,9.99,59.99,high,low,4,namesilo,,,28/09/2026 06:35
 2373a4b1-7931-4ef9-8b0a-9501dfcf4078,answered.wine,available,9.99,59.99,high,low,8,namesilo,,,25/09/2026 16:54
 fbce5f58-0820-41bf-82a2-61442cd41863,animator.wine,available,9.99,59.99,high,low,8,namesilo,,,19/09/2026 09:13
 29ceed0b-a625-4799-8f1f-a9dfc8f875d1,highway.wine,available,9.99,,high,low,7,name.com,,,
@@ -861,6 +877,7 @@ b46594a8-53fa-4d7b-b6a8-7cdfb305d8d8,alarmism.wine,available,9.99,59.99,medium,l
 b1021db8-1b45-4b68-aeab-0bdca112d177,ancients.wine,available,8.48,75.98,high,low,8,namecheap,,,19/09/2026 03:51
 3e454861-b36d-423a-8fa1-ce89400b1694,marshy.wine,available,8.48,75.98,medium,low,6,namecheap,,,10/08/2026 17:03
 d327d476-a239-4772-a341-332cb00cf183,quarterly.wine,available,8.48,75.98,high,low,9,namecheap,,,09/09/2026 07:37
+52bee2ff-bce3-4d96-a44f-50123423800d,jin.wine,available,9.99,59.99,high,low,3,namesilo,,,28/09/2026 07:26
 80208108-2385-4d7e-b17c-cd7f4097422a,plate.wine,available,9.99,,high,low,5,name.com,,,
 195a3092-598a-4605-91a5-9e381d67776c,lackluster.wine,available,8.48,75.98,medium,low,10,namecheap,,,22/08/2026 18:07
 e9d85827-c28d-42c8-8773-3c9a44fac691,alated.wine,available,8.48,75.98,medium,low,6,namecheap,,,
@@ -886,7 +903,7 @@ be8f1036-dd5b-4958-b00d-88281bf8eede,existed.wine,available,46.2,46.2,medium,low
 206defd4-3051-445a-8fd3-05fd13cdf1ec,widget.wine,available,9.99,59.99,high,low,6,namesilo,,,19/09/2026 21:50
 65412f47-9a39-418c-b691-f65432180a1c,vitrified.wine,available,8.48,75.98,medium,low,9,namecheap,,,13/09/2026 06:20
 7aab7404-c122-43f4-9d7b-50a0762b2101,mohammedan.wine,available,8.48,75.98,medium,low,10,namecheap,,,25/08/2026 03:23
-aec56818-9c34-43a7-b291-81aa58bdd48e,account.wine,available,8.48,75.98,high,low,7,namecheap,,,23/09/2026 08:11
+aec56818-9c34-43a7-b291-81aa58bdd48e,account.wine,available,7.45,47.81,high,low,7,spaceship,,,28/09/2026 06:17
 a4184001-640d-4314-b5e3-6921efeb966e,balanchine.wine,available,8.48,75.98,medium,low,10,namecheap,,,21/09/2026 20:54
 78c7ce0b-00ab-4b49-a5c4-c698a0dce195,blooded.wine,available,8.48,75.98,high,low,7,namecheap,,,10/08/2026 15:18
 74695833-57ac-4f4f-b83e-943e2cc4f8dd,biryani.wine,available,9.99,59.99,high,low,7,namesilo,,,23/09/2026 20:44
@@ -948,6 +965,7 @@ a1771855-8da6-4319-b4d1-265b17c080e8,courtney.wine,resell,,,high,low,8,"GoDaddy.
 eeab10f0-5419-412f-ba74-9e3dd9f6ea6f,ginsberg.wine,available,8.48,75.98,medium,low,8,namecheap,,,18/09/2026 10:49
 61be9a8c-b46d-420f-b44c-3e0e0372dade,weapon.wine,available,9.99,59.99,high,low,6,namesilo,,,25/09/2026 10:57
 8781b486-153d-4610-a492-0a7aa8f1a712,sterope.wine,available,9.99,59.99,low,low,7,namesilo,,,20/09/2026 17:14
+e0f57699-411e-4913-890e-90bb31e76b33,oven.wine,available,9.99,59.99,high,low,4,namesilo,,,28/09/2026 06:32
 e92dd452-1f29-4777-b6ab-60a33949f5d7,nullified.wine,available,8.48,75.98,medium,low,9,namecheap,,,22/08/2026 08:56
 4d9d614e-8277-4be9-a0db-697498c69911,rheumatic.wine,available,8.48,75.98,medium,low,9,namecheap,,,06/08/2026 23:05
 7bbba573-204d-4267-92a8-8c4dc18fd558,achievable.wine,available,9.99,59.99,high,low,10,namesilo,,,21/09/2026 15:42
@@ -981,21 +999,3 @@ e797d175-b85e-4c21-8b03-dfe615c0f06f,actinidia.wine,available,9.99,59.99,medium,
 d7ee9fbd-c598-4182-a5f9-5eb8f169e139,veto.wine,available,8.48,75.98,high,low,4,namecheap,,,03/09/2026 15:01
 ca2509a6-d66f-48fc-b353-40d789082f30,adulterate.wine,available,8.48,75.98,medium,low,10,namecheap,,,
 c6ad6534-9c18-44f5-8db2-a801c1b0c1a8,yearly.wine,available,9.99,,high,low,6,name.com,,,
-098e6020-c888-43f0-a606-8311a4e978c3,boris.wine,available,8.48,75.98,high,low,5,namecheap,,,25/09/2026 20:39
-06a353dc-919d-4152-b5db-0f5cbecee0cc,unaccented.wine,available,8.48,75.98,medium,low,10,namecheap,,,11/09/2026 23:32
-4f56ece8-e490-40e3-b9df-fa7c648cbbb8,synovial.wine,available,8.48,75.98,medium,low,8,namecheap,,,11/09/2026 06:37
-389754b9-42f5-4ddf-be80-a62d96a855a6,unpaid.wine,available,8.48,75.98,high,low,6,namecheap,,,
-b52da46f-719d-4604-837f-4e0c5ddae525,babu.wine,available,9.99,59.99,medium,low,4,namesilo,,,21/09/2026 12:51
-f4e21b27-6b11-431a-9bfa-10568c77456e,babbitt.wine,available,9.99,59.99,medium,low,7,namesilo,,,21/09/2026 12:17
-a31dffdf-263d-457c-a8b8-bff3c411ff3d,devalued.wine,available,8.48,75.98,medium,low,8,namecheap,,,14/08/2026 05:02
-39877c79-4813-4b29-bb07-46c47e09ae1b,complete.wine,available,8.48,75.98,high,low,8,namecheap,,,19/09/2026 19:02
-1203ba70-64fd-4014-b0aa-e597682d66b3,carat.wine,available,9.99,59.99,high,low,5,namesilo,,,24/09/2026 12:45
-1d3e905a-6703-4584-b3a1-a901411f03af,burial.wine,available,9.99,59.99,medium,low,6,namesilo,,,24/09/2026 11:18
-ea30c800-5d78-40fb-8643-1c34ead63ee7,nattily.wine,available,8.48,75.98,medium,low,7,namecheap,,,15/09/2026 16:12
-41129e72-413f-4b3c-adcd-b7eea7688cb7,baneberry.wine,available,8.48,75.98,medium,low,9,namecheap,,,22/09/2026 01:43
-b5326910-dabe-40b1-b8d2-0137bc3c5348,thus.wine,available,9.99,,high,low,4,name.com,,,
-3431bde1-b935-4ee8-a372-925dc43bdeb5,glanced.wine,available,9.99,59.99,medium,low,7,namesilo,,,18/09/2026 01:59
-f2822869-ac33-4532-94ab-81a56f8e19f3,focused.wine,available,8.48,75.98,high,low,7,namecheap,,,18/08/2026 09:45
-232ed5bc-0476-43e0-a495-19aafc8d6311,dabbler.wine,available,8.48,75.98,medium,low,7,namecheap,,,14/08/2026 07:42
-9b604d32-3d93-4b8e-b0ad-30569ece09d2,jerky.wine,available,8.48,75.98,high,low,5,namecheap,,,06/08/2026 22:03
-eabfdd2a-1ffa-475a-af8f-af7df30e52bb,thread.wine,available,9.99,,high,low,6,name.com,,,
